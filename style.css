@@ -1,0 +1,11 @@
+@import './mdb.dark.rtl.min.css';
+
+
+.glow{
+    transition: ease-in-out 300ms;
+}
+.glow:hover{
+    scale: 1.2;  
+}
+
+  
